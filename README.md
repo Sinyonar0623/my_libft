@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">Throughout this project, I’ve been learning to work with data structures, such as linked lists, and have customized the library with additional functions tailored to my specific needs. The code is compiled using `cc` with the flags `-Wall -Wextra -Werror` to handle errors and warnings rigorously. I have also created a Makefile for efficient code management and compilation.</p>
+Throughout this project, I’ve been learning to work with data structures, such as linked lists, and have customized the library with additional functions tailored to my specific needs. The code is compiled using `cc` with the flags `-Wall -Wextra -Werror` to handle errors and warnings rigorously. I have also created a Makefile for efficient code management and compilation.</p>
 
 ###
 
